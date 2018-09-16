@@ -12,7 +12,6 @@ How to build and program a glowing crystal
 
 
 ## Materials
-*Spec'd for 20 crystals*
 
 * [Clear 3D Printer Filament](https://www.monoprice.com/product?p_id=11548)
 * % [Mini-B to USB cables](https://www.monoprice.com/product?p_id=3896)
