@@ -3,12 +3,12 @@ How to build and program a glowing crystal
 
 
 ## Overview
-#### [Materials](https://github.com/clineci/glowing-crystal#Materials)
-#### [Base](https://github.com/clineci/glowing-crystal#Base)
-#### [Crystal](https://github.com/clineci/glowing-crystal#Crystal)
-#### [Circuit Board](https://github.com/clineci/glowing-crystal#Circuit_Board)
-#### [Assembly](https://github.com/clineci/glowing-crystal#Assembly)
-#### [Program](https://github.com/clineci/glowing-crystal#Program)
+#### [Materials](https://github.com/clineci/glowing-crystal#materials-1)
+#### [Base](https://github.com/clineci/glowing-crystal#base-1)
+#### [Crystal](https://github.com/clineci/glowing-crystal#crystal-1)
+#### [Circuit Board](https://github.com/clineci/glowing-crystal#circuit-board-1)
+#### [Assembly](https://github.com/clineci/glowing-crystal#assembly-1)
+#### [Program](https://github.com/clineci/glowing-crystal#program-1)
 
 
 ## Materials
