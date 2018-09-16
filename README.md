@@ -14,16 +14,18 @@ How to build and program a glowing crystal
 ## Materials
 *Spec'd for 20 crystals*
 
-* $20 - [Clear 3D Printer Filament](https://www.monoprice.com/product?p_id=11548)
-* $13.20 - 20 [Mini-B to USB cables](https://www.monoprice.com/product?p_id=3896)
-* $3.18 - [Wooden 2x4](http://www.homedepot.com/p/2-in-x-4-in-x-96-in-Premium-Kiln-Dried-Whitewood-Stud-161640/202091220)
-* $73.98 - 20 [Arduino Nanos](https://smile.amazon.com/Longruner-ATmega328P-Controller-Module-Arduino/dp/B01MSYWE6B/ref=sr_1_9?ie=UTF8&qid=1507757932&sr=8-9&keywords=Arduino+Nano)
-* $28 - [LED strip](https://smile.amazon.com/gp/product/B071KKSTDZ/ref=s9_acsd_hps_bw_c_x_3_w)
-* $7.43 [300 ohm resistors](https://www.amazon.com/Through-0-25W-Tolerance-Resistor-300Pcs/dp/B00RECN1KI/ref=sr_1_1?ie=UTF8&qid=1537136916&sr=8-1&keywords=300+ohm+resistors)
-* $$ 20 male/female sets of 1x15 pin headers
+* [Clear 3D Printer Filament](https://www.monoprice.com/product?p_id=11548)
+* % [Mini-B to USB cables](https://www.monoprice.com/product?p_id=3896)
+* [Wooden 2x4](http://www.homedepot.com/p/2-in-x-4-in-x-96-in-Premium-Kiln-Dried-Whitewood-Stud-161640/202091220)
+* % [Arduino Nanos](https://smile.amazon.com/Longruner-ATmega328P-Controller-Module-Arduino/dp/B01MSYWE6B/ref=sr_1_9?ie=UTF8&qid=1507757932&sr=8-9&keywords=Arduino+Nano)
+* [LED strip](https://smile.amazon.com/gp/product/B071KKSTDZ/ref=s9_acsd_hps_bw_c_x_3_w)
+* % [300 ohm resistors](https://www.amazon.com/Through-0-25W-Tolerance-Resistor-300Pcs/dp/B00RECN1KI/ref=sr_1_1?ie=UTF8&qid=1537136916&sr=8-1&keywords=300+ohm+resistors)
+* % male/female sets of 1x15 pin headers
 * Hot glue
 * Solder
 * OPTIONAL: 1-sided copper board if printing circuit board
+
+% one per crystal
 
 The links provided are NOT an endorsement. They are meant only as a helpful
 suggestion in case you've never bought these materials in the past. Other than
